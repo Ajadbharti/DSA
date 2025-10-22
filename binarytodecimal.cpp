@@ -1,15 +1,30 @@
 #include<iostream>
+#include<vector>
 using namespace std;
 int main(){
     int n;
     cout<<"Enter the Binary number:- ";
     cin>>n;
-    int ans=0,power=1;
-    while(n!=0){
-        int lastdigits=n%10;
-        ans+=lastdigits*power;
-        power*=2;
-        n/=10;
+    vector <int> v(n);
+    for(int i=0;i<n;i++){
+        cin>>v[i];
     }
-    cout<<"The decimal value is "<<ans<<"\n";
+    int target;
+    cout<<"Enter the target value:- ";
+    cin>>target;
+    int f=0;
+    int l=n-1;
+    while(f<=l){
+        int mid=(f+l)/2;
+        if(v[mid]==target){
+            cout<<mid;
+            break;
+        }else if(v[mid]<target){
+            f=mid+1;
+        }else{
+            l=mid-1;
+        }
+    }
+   
+
 }
