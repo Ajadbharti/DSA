@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajadbharti/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Ajadbharti/DSA/tree/master/0053-maximum-subarray) |
 | [0875-koko-eating-bananas](https://github.com/Ajadbharti/DSA/tree/master/0875-koko-eating-bananas) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ajadbharti/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ajadbharti/DSA/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ajadbharti/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Greedy
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ajadbharti/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ajadbharti/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
