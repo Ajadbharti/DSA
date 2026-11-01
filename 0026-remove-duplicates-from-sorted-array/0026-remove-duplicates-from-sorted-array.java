@@ -3,9 +3,11 @@ class Solution {
         int i=0;
         int j=1;
         int n=nums.length;
+
         while(j < n){
-            if(nums[i]==nums[j]){
+            if(nums[i] == nums[j]){
                 j++;
+
             }
             else{
                 i++;
@@ -13,6 +15,6 @@ class Solution {
                 j++;
             }
         }
-        return i+1;
+        return i + 1;
     }
 }
