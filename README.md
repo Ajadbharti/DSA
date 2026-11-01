@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ajadbharti/DSA/tree/master/0013-roman-to-integer) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ajadbharti/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Greedy
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ajadbharti/DSA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Ajadbharti/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ajadbharti/DSA/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ajadbharti/DSA/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Ajadbharti/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
