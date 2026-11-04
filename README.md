@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ajadbharti/DSA/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Ajadbharti/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ajadbharti/DSA/tree/master/0053-maximum-subarray) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ajadbharti/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ajadbharti/DSA/tree/master/0875-koko-eating-bananas) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ajadbharti/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ajadbharti/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ajadbharti/DSA/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ajadbharti/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ajadbharti/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
