@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ajadbharti/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajadbharti/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ajadbharti/DSA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ajadbharti/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Ajadbharti/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ajadbharti/DSA/tree/master/0053-maximum-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ajadbharti/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ajadbharti/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ajadbharti/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ajadbharti/DSA/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
