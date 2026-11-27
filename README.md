@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Ajadbharti/DSA/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Ajadbharti/DSA/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Ajadbharti/DSA/tree/master/0619-biggest-single-number) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Ajadbharti/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1890-the-latest-login-in-2020](https://github.com/Ajadbharti/DSA/tree/master/1890-the-latest-login-in-2020) |
 ## Array
 |  |
